@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olusegun</h1>
-<h3 align="center">Ambitious IOS Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/justolusegun" target="blank"><img src="https://img.shields.io/twitter/follow/justolusegun?logo=twitter&style=for-the-badge" alt="justolusegun" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [techidentity.net](techidentity.net)
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **Swif, IOS, Frontendt**
 
 - 📫 How to reach me **ainayoungg@gmail.com**
 
