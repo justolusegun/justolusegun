@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Olusegun</h1>
-<h3 align="center">A passionate Frontend and Mobile App developer</h3>
+<h3 align="center">Ambitious IOS Engineer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/justolusegun" target="blank"><img src="https://img.shields.io/twitter/follow/justolusegun?logo=twitter&style=for-the-badge" alt="justolusegun" /></a> </p>
 
-- 🔭 I’m currently working on **React, Android**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Swift, React**
 
 - 📝 I regularly write articles on [techidentity.net](techidentity.net)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **ainayoungg@gmail.com**
 
