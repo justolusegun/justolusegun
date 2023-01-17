@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/justolusegun" target="blank"><img src="https://img.shields.io/twitter/follow/justolusegun?logo=twitter&style=for-the-badge" alt="justolusegun" /></a> </p>
 
-- 🔭 I’m currently working on **Swift, React**
+- 🔭 I’m currently working on **JavaScript, React**
 
 - 📝 I regularly write articles on [techidentity.net](techidentity.net)
 
-- 💬 Ask me about **Swif, IOS, Frontendt**
+- 💬 Ask me about **Programming, Frontendt**
 
 - 📫 How to reach me **ainayoungg@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **私が勝ちます**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
