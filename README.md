@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [techidentity.net](techidentity.net)
 
-- 💬 Ask me about **Programming, Frontendt**
+- 💬 Ask me about **Programming, Frontend**
 
 - 📫 How to reach me **ainayoungg@gmail.com**
 
