@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/justolusegun" target="blank"><img src="https://img.shields.io/twitter/follow/justolusegun?logo=twitter&style=for-the-badge" alt="justolusegun" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript, React**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 📝 I regularly write articles on [techidentity.net](techidentity.net)
 
-- 💬 Ask me about **Programming, Frontend**
+- 💬 Ask me about **React, Frontend**
 
 - 📫 How to reach me **ainayoungg@gmail.com**
 
